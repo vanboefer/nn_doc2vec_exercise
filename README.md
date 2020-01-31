@@ -25,7 +25,7 @@ python preprocess.py --inpath ./data/tagged_plots_movielens.csv --outpath ./data
 ```
 
 ## Doc2Vec
-We use Le and Mikolov's (2014) Doc2Vec to create representations for the movie plots.
+I use Le and Mikolov's (2014) Doc2Vec to create representations for the movie plots.
 
 > Le, Q., & Mikolov, T. (2014, January). Distributed representations of sentences and documents.
 > In International conference on machine learning (pp. 1188-1196). url: [https://arxiv.org/pdf/1405.4053.pdf](https://arxiv.org/pdf/1405.4053.pdf)
