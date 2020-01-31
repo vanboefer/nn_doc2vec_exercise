@@ -4,3 +4,4 @@ __pycache__/
 data/
 doc2vec_models/
 results/
+notebooks/03_plotting_nn_settings.ipynb
